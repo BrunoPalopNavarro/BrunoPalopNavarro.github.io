@@ -1,0 +1,19 @@
+:root{
+    font-family:fantasy;
+    color:rgb(0, 0, 54)
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+table th{
+    background-color:rgb(0, 13, 255);
+    color: rgb(215, 248, 250);
+    text-decoration-line: underline;
+}
+
+table td:first-child{
+    background-color:rgb(126, 178, 255);
+}
